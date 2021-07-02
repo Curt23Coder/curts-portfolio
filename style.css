@@ -243,9 +243,10 @@ h6 {
     font-weight: bolder;
 }
 p {
-    background-color: rgba(0, 0, 0, 0.39);
+    background-color: rgba(0, 0, 0, 0.555);
+    font-weight: bold;
+    font-size: 17px;
 }
-
 @media screen and (max-width: 414px){
 
 
