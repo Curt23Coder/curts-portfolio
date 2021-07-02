@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+body {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Give You Glory', cursive, sans-serif; 
+}
+.header {
+    background-image: url("./Images/cross-blurry-sunset-background_34982-10.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.portfolio-image {
+    border-radius: 90%;
+    border: solid #fff 1px;
+}
+.container-fluid {
+    overflow: hidden;
+}
+.nav-link1, .nav-link2, .nav-link3{
+    text-decoration: none;
+    padding: 4px;
+    color: #fff;
+    font-family: 'Give You Glory', cursive, sans-serif; 
+    font-size: 22px;
+    margin-left: 450px;
+    margin-right: -150px;
+    background-color:  rgba(58, 17, 17, 0.534);
+}
+.nav-link1:hover{
+    color: #fff;
+    font-size: 27px;
+
+}
+.nav-link2:hover{
+    color: #fff;
+    font-size: 27px;
+}
+.nav-link3:hover{
+    color: #fff;
+    font-size: 27px;
+}
+.main {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Give You Glory', cursive, sans-serif; 
+}
+#about-me {
+    margin-top: 120px;
+}
+.about-me-icon {
+    border-radius: 90%;
+}
+
+.carousel-inner {
+    margin-top: 10px;
+}
+#music {
+    margin-top: 120px;
+}
+.music-icon {
+    border-radius: 90%;
+}
+#contact {
+    margin-top: 120px;
+}
+.contact-icon {
+    border-radius: 90%;
+    position: relative;
+}
+mark {
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+.highlight{
+    background-color: rgba(6, 12, 99, 0.555);
+    padding: 1px;
+    border-radius: 30%;
+}
+.footer-banner {
+    background-color: rgba(117, 14, 0, 0.226);
+    padding: 10px;
+}
+.slide-text {
+    background-color: rgba(0, 0, 0, 0.39);
+    position: relative;
+    display: inline-block;
+    font-weight: bolder;
+    padding: 10px;
+}
+h3{
+    font-family: 'Give You Glory', cursive, sans-serif; 
+    position: relative;
+    top: 100px;
+    color: rgb(255, 255, 255);
+}
+ul li {
+    margin-left: 350px;
+    list-style-type: none;
+}
+.music-bg {
+    background-image: url("./Images/empty_stage.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+}
+.video {
+  margin-top: 95px;
+}
+.jesus-image {
+    position: relative;
+    left: -90px;
+    opacity: 0;
+}
+.contact-bg{
+    background-image: url("https://media.istockphoto.com/photos/blessing-picture-id638885720?k=6&m=638885720&s=612x612&w=0&h=nXAJaxaTMK1EROspsQXFsOO499An0ZDfeccJL44MGfY=");
+    background-size: cover;
+    position: relative;
+    display: inline-block;
+    background-position: center;
+    margin-top: 30px;
+    height: 220px;
+    width: 480px;
+}
+.footer-bg {
+    background-image: url("https://www.guideposts.org/sites/default/files/styles/hero_box_left_lg/public/blog_post/pentecost.jpg?timestamp=1621353847");
+    background-size: cover;
+    background-position: center;
+    margin-top: 120px;
+    height: 290px;
+}
+
+.linkedin-icon {
+ width: 28px;
+ height: 28px;
+}
+
+.linkedin-icon:hover{
+    transition: margin-top .25s ease-out;                                                                          }                                                                                     
+     .facebook-icon {
+    width: 47px;
+    height: 47px; 
+}
+.email-icon {
+    width: 35px;
+    height: 35px;
+}
+.github-icon {
+    width: 33px;
+    height: 33px;
+}
+.cross-icon{
+    display: inline;
+    position: relative;
+    top: 60px;
+    left: -239px;
+    top: 23px;
+}
+.icons:hover{
+    transition: margin-top .25s ease-out;
+    margin-top: -20px;
+}
+.linkedin-icon:hover{
+    width: 31px;
+    height: 31px;
+}
+.facebook-icon:hover{
+    width: 50px;
+    height: 50px;
+}
+.github-icon:hover{
+    width: 38px;
+    height: 38px;
+}
+.email-icon:hover{
+    width: 40px;
+    height: 40px;
+}
+.god-icon {
+    position: relative;
+    display: inline;
+    border-radius: 90%;
+    top: 90px;
+}
+.end-title{
+  position: relative;
+  top: 90px;
+}
+.my-quote {
+    color: #000;
+    font-weight: bolder;
+}
+.footer-portfolio{
+    border-radius: 90%;
+}
+h6 {
+    color: #000;
+    font-weight: bolder;
+}
+.icons {
+    display: block;
+    float: right;
+}
+
+.contact1, .contact2, .contact3, .contact4 {
+    float: left;
+    display: inline;
+}
+.contact1 {
+    display: inline;
+    position: relative;
+    left: -211px;
+    top: 25px;
+
+}
+.contact2 {
+    display: inline;
+    position: relative;
+    left: -191px;
+    top: 15px;
+}
+.contact3 {
+    display: inline;
+    position: relative;
+    left: -185px;
+    top: -75px;
+}
+.contact4 {
+    display: inline;
+    position: relative;
+    left: -153px;
+    top: -85px;
+}
+.faith {
+    opacity: 0;
+    font-weight: bolder;
+}
+p {
+    background-color: rgba(0, 0, 0, 0.39);
+}
+
+@media screen and (max-width: 414px){
+
+
+
+    .header{
+        width: 150%;
+        background-image: url("./Images/cross-blurry-sunset-background_34982-10.jpeg");
+    }
+    .jesus-image {
+        margin-left: 20px;
+        margin-top: 40px;
+        width: 470px;
+    }
+   .navbar {
+       width: 67%;
+   }
+  .title{
+      font-size: 19px;
+  }
+}
+@media screen and (max-width: 280px){
+
+    .header{
+        width: 160%;
+        background-image: url("./Images/cross-blurry-sunset-background_34982-10.jpeg");
+        background-size: cover;
+    }
+
+    .jesus-image {
+        margin-left: 10px;
+        margin-top: 40px;
+        width: 470px;
+    }
+  .title{
+      font-size: 17px;
+  }
+  .footer-banner{
+      font-size: 20px;
+  }
+}
+@media screen and (max-width: 780px){
+    .nav-link1, .nav-link2, .nav-link3{
+
+        margin-left: -120px;
+        color: #fff;
+    }
+    .my-quote {
+        margin-top: 5px;
+    }
+}
+@media only screen and (min-width:1000px){
+    .nav-link1, .nav-link2, .nav-link3{
+
+        margin-left: 300px;
+        color: #fff;
+    } 
+}
+@media only screen and (max-width:1600px) and (min-width:1400px){
+    .nav-link1, .nav-link2, .nav-link3{
+
+        margin-left: 450px;
+        color: #fff;
+    } 
+}
