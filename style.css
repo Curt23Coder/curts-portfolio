@@ -156,9 +156,10 @@ ul li {
     width: 33px;
     height: 33px;
 }
-.cross-icon{
+.instagram-icon{
     display: inline;
     position: relative;
+    border-radius: 90%;
     top: 60px;
     left: -239px;
     top: 23px;
