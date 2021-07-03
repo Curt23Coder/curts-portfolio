@@ -19,6 +19,10 @@ body {
     border-radius: 90%;
     border: solid #fff 1px;
 }
+.title {
+    position: relative;
+    top: 8px;
+}
 .container-fluid {
     overflow: hidden;
 }
