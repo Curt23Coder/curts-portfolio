@@ -85,6 +85,9 @@ mark {
 .footer-banner {
     background-color: rgba(117, 14, 0, 0.226);
     padding: 10px;
+    font-size: 21px;
+    color: #fff;
+    font-weight: bold;
 }
 .slide-text {
     background-color: rgba(0, 0, 0, 0.39);
